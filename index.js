@@ -7,5 +7,14 @@ while (countup >= 0) {
 }
 
 function writeCards(x,y){
-  
+const out = [];
+Would produce the following array:
+
+```js
+[
+  "Thank you, Ada, for the wonderful birthday gift!",
+  "Thank you, Brendan, for the wonderful birthday gift!",
+  "Thank you, Ali, for the wonderful birthday gift!"
+];
+```
 }
