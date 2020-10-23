@@ -5,3 +5,7 @@ while (countup >= 0) {
   console.log(countup--);
 }
 }
+
+function writeCards(x,y){
+  
+}
